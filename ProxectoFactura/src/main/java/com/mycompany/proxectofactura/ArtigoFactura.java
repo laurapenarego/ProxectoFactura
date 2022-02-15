@@ -3,7 +3,7 @@
 package com.mycompany.proxectofactura;
 
 /**
- *
+ * Datos do artigo dunha factura
  * @author Laura Pena 
  * @date 15 de feb. de 2022
  * @time 16:57:50
